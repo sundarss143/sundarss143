@@ -55,5 +55,6 @@
 
 ---
 
-### 🐍 Contribution Snake
-![snake gif](https://github.com/sundarss143/sundarss143/blob/output/github-contribution-grid-snake.svg)
+## 🐍 Contribution Snake
+
+![snake gif](https://raw.githubusercontent.com/sundarss143/sundarss143/output/github-contribution-grid-snake.svg)
