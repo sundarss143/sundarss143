@@ -13,7 +13,7 @@
 - 🔭 I’m currently working on **Python and Software Development projects**
 - 🌱 I’m learning **Advanced Python, APIs, and System Design**
 - 💬 Ask me about **Python, OOP, Flask/Django basics, SQL**
-- 📫 Reach me at: **yourmail@example.com**
+- 📫 Reach me at: **sundarrajaponnuru@gmail.com **
 - ⚡ Fun fact: **I enjoy building practical tools with Python**
 
 ---
