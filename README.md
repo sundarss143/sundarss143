@@ -2,8 +2,8 @@
 <h3 align="center">Python Developer | Software Developer</h3>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://github.com/sundarss143">
+    <img src="https://komarev.com/ghpvc/?username=sundarss143&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   </a>
 </p>
 
@@ -45,15 +45,15 @@
 
 ### 📊 GitHub Stats
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=sundarss143&show_icons=true&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sundarss143&layout=compact&theme=tokyonight" />
 </p>
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sundarss143&theme=tokyonight" />
 </p>
 
 ---
 
 ### 🐍 Contribution Snake
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/sundarss143/sundarss143/blob/output/github-contribution-grid-snake.svg)
